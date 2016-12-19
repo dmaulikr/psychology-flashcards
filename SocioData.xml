@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+
+<!-- Categories
+ 0 = People/Experiments
+ 1 = Theories
+ 2 = Disorders
+ 3 = Hormones
+ 4 = Neurotransmitters
+ 5 = Brain Parts
+ 6 = Vocab
+ -->
+
+<CATALOG>
+    
+    <SOCIOCULTURAL
+    categoryNumber = "0"
+    title = "Bandura"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <SOCIOCULTURAL
+    categoryNumber = "0"
+    title = "Asch"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <SOCIOCULTURAL
+    categoryNumber = "0"
+    title = "Mead"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <SOCIOCULTURAL
+    categoryNumber = "0"
+    title = "Milgram"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <SOCIOCULTURAL
+    categoryNumber = "0"
+    title = "Zimbardo"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <SOCIOCULTURAL
+    categoryNumber = "0"
+    title = "Lewin"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <SOCIOCULTURAL
+    categoryNumber = "0"
+    title = "Hofstede"
+    description = ""
+    miniDescription = ""
+    />
+    
+</CATALOG>

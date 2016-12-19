@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+
+<!-- Categories
+ 0 = People/Experiments
+ 1 = Theories
+ 2 = Disorders
+ 3 = Hormones
+ 4 = Neurotransmitters
+ 5 = Brain Parts
+ 6 = Vocab
+ -->
+
+<CATALOG>
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Wilhelm Wundt"
+    description = "Father of modern psychology"
+    miniDescription = "Father of modern psychology"
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "William James"
+    description = "Father of modern psychology"
+    miniDescription = "Father of modern psychology"
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Wilhelm Wundt"
+    description = "Father of modern psychology"
+    miniDescription = "Father of modern psychology"
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Sir Frederick Bartlett"
+    description = "Father of modern psychology"
+    miniDescription = "Father of modern psychology"
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "George Miller"
+    description = "Father of modern psychology"
+    miniDescription = "Father of modern psychology"
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "E.C. Tolman"
+    description = "Father of modern psychology"
+    miniDescription = "Father of modern psychology"
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Naom Chomsky"
+    description = "Father of modern psychology"
+    miniDescription = "Father of modern psychology"
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Hermann Ebbinghaus"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Craik and Lockhart"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Aaron Beck"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Alber Ellis"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Endel Tulving"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Walter Mischel"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Leonard Berkowitz"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Leon Festinger"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Jean Piaget"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Lawrence Kholberg"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Hans Eysenck"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Sir Francis Galton"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Stanley Schachter"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Joyce Sprafkin"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Lev Vygotsky"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Jerome Bruner"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Anderson and Pichert"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Atkinson and Shiffrin"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Baddeley and Hitch"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Eric Kandel"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Michael Cole"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Sigmund Freud"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Joseph LeDoux"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Richard Lazarus"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Ulric Neisser"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Brown and Kulik"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Clive Wearing"
+    description = ""
+    miniDescription = ""
+    />
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "H.M."
+    description = ""
+    miniDescription = ""
+    />
+    
+</CATALOG>

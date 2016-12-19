@@ -1,0 +1,1239 @@
+<?xml version="1.0"?>
+
+<!-- Categories
+ 0 = People/Experiments
+ 1 = Theories
+ 2 = Disorders
+ 3 = Hormones
+ 4 = Neurotransmitters
+ 5 = Brain Parts
+ 6 = Vocab
+ -->
+
+<CATALOG>
+    
+    <COGNITIVE
+    categoryNumber = "0"
+    title = "Susan Curtis"
+    description = "Worked With Genie"
+    miniDescription = "Worked with Genie"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    title = "Susan Curtis"
+    description = "Worked With Genie"
+    miniDescription = "Worked with Genie"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    title = "Wilder Penfield"
+    description = "Montreal procedure: treated patients with severe epilepsy by destroying nerve cells in the brain where the seizures originated. Before operating, he stimulated the brain with electrical probes while the patients were conscious on the operating table (under only local anesthesia), and observed their responses. In this way he could more accurately target the areas of the brain responsible, reducing the side-effects of the surgery. ESB!!!"
+    miniDescription = "Montreal Procedure"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    title = "James Olds"
+    description = "located pleasure centers in rats brains. nucleus accumbens.  limbic system.  ESB!!!"
+    miniDescription = "Pleasure centers in rats brains"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "112"
+    title = "Walter Cannon"
+    description = "fight or flight. epinephrine, norepinephrine"
+    miniDescription = "fight or flight"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "113"
+    title = "Hans Selye"
+    description = "General Adaptation Syndrome (GAS); stages: Alert, Resistance, Exhaustion (ARE), coined the term stress"
+    miniDescription = "GAS = ARE"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "102"
+    title = "Rene Descartes"
+    description = "Dualism: believed that the mind and body were separate, connected by the pineal gland (which actually just secretes melatonin, the hormone to induce sleep.)"
+    miniDescription = "Dualism"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "103"
+    title = "Paul Broca"
+    description = "Broca’s area found in the inferior frontal gyrus. Patient: Tan because that was the only word he could say. Broca’s area is the ability to understand language, but not speak it."
+    miniDescription = "Broac's area"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "104"
+    title = "Carl Wiernicke"
+    description = "Wernike’s Area: found in the posterior section of the superior temporal gyrus. Cannot understand languge, but can speak it."
+    miniDescription = "Wernike's Area"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "105"
+    title = "Jose Delgado"
+    description = "ESB. placed an electron in the brain of a bull in what he believed was the fear portion of it’s amygdala. “muy macho”"
+    miniDescription = "Muy Macho"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "106"
+    title = "Roger Sperry"
+    description = "split brain research. Hemisphere disconnection correlated with loss of awareness. corpus callosum severing led to separate consciousnesses"
+    miniDescription = "Split brain research"
+    />
+    
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "107"
+    title = "Michael Gazzaniga"
+    description = "split-brain research → lateralization of functions across the cerebral hemispheres."
+    miniDescription = "Lateralization"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "116"
+    title = "Franz Gall"
+    description = "pioneered phrenology (study of shape/size of cranium as indicator of mental faculties.  early attempt at localization of function.  identifying bumps on the head as indicating personality traits.)"
+    miniDescription = "Phrenology"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "121"
+    title = "Tessa Roseboom"
+    description = "Dutch Hunger Winters. Did a study on children of the Dutch Hunger Winter where Nazi Germany starved the Dutch. As a result, fetus’s of the pregnant women were exposed to higher levels of cortisol. As adults, they report that they have maladaptive coping techniques and mental disorders such as depression. TERATOGENS"
+    miniDescription = "Dutch Hunger Winters"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "122"
+    title = "Bruce McEwen"
+    description = "stress makes you stupid. less dendrites.  sapolsky’s mentor."
+    miniDescription = "Dendrites"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "123"
+    title = "Elizabeth Blackburn"
+    description = "telomeres shorten, increased rate of aging, studied chronically stressed mothers of children w/ special needs.  studied bio effects of long-term stress. telomeres (capsules at ends of chromosomes) tend to deteriorate rapidly.  ratio:  age 6 yrs for every 1 yr."
+    miniDescription = "Telomeres"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "124"
+    title = "Shelly Taylor"
+    description = "'Tend and Befriend' oxytocin"
+    miniDescription = "Oxytocin"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "125"
+    title = "James Pennebaker"
+    description = "link between the way a person uses language and their personality"
+    miniDescription = "Language and personality"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "126"
+    title = "Robert Ader"
+    description = "PNI and Classical Conditioning. discovered that the immune system of rats can be conditioned to respond to external stimuli unrelated to immune function. His experiments demonstrated that the nervous system can affect the immune system.* immune conditioning of rats.  can we control the immune system?"
+    miniDescription = "PNI and Classical Conditioning"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "127"
+    title = "Marion Diamond"
+    description = "“Rat lady”. Professor of neuroscience at Berkley.  performed an experiment on rats to study the effect of an impoverished vs enriched environment. Found that  rats in an impoverished environment  (one rat, no toys) lived 300 days; in a standard environment (three rats, one toy) they lived 600 days; and an enriched environment (10 rats, lots of toys, tickled) the average life span is 900 days. Discovered importance of diet, exercise, challenge, newness, and love."
+    miniDescription = "Rat lady"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "128"
+    title = "Abigail Baird"
+    description = "reseracher on teenage brain, including behavior especially decision making. Her research includes the integration of emotion and cognition across the development of the adolescent brain and how both factors are used by adolescents in decision making.*"
+    miniDescription = "teenage brain and decision making"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "129"
+    title = "Jay Geidd"
+    description = "Explored the relationship between genes, the brain and behavior in the healthy development of children and in the early onset of mental disorders in children. His studies are known to have used the most pediatric MRI scans.*"
+    miniDescription = "genes"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "130"
+    title = "Chris Nowinski"
+    description = "President of the Sports Legacy Institute, dedicated to furthering sports-related brain injury research and awareness, and improving the safety of contact and collision sports, including examining long-term effects of head trauma among athletes.  played football at harvard.  became a professional wrestler.  6 separate concussions.  minor form of traumatic brain injury.  at BU studies traumatic encephilopathy.  studies of former athletes who committed suicide.  similar history of concussions.  found that brains show sign of traumatic encephilopathy → dark spots scattered through brains → look like older brains going through dementia.  lobbied nfl to get rules changed:  so you wouldn’t go right back in game after concussion.  other researchers started studying little collisions in practice.  cumulative effect is really bad.  similar to heading a soccer ball.  → damage eventually. enzyme:  tau destroys parts of brain."
+    miniDescription = "Football guy with concusions"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "131"
+    title = "David Snowden"
+    description = "His work is in the area of naturalising sense-making, seeking to base social science research and practice in the natural science.  He is generally considered to be a pioneer in the application of complex adaptive systems theory to a range of social issues, and in the development of narrative as a research method. nun study-idea density in autobio and later alzheimers"
+    miniDescription = "Nun study"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "132"
+    title = "John Money"
+    description = "was a psychologist, sexologist and author, specializing in research into sexual identity and biology of gender. He has been the subject of controversy due to his work with the non-consensual sex-reassignment of David Reimer."
+    miniDescription = "David Reimer"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "133"
+    title = "David Reimer"
+    description = " patient of John Money. Was born a boy, but raised as a girl. Bruce → Brenda → David. Threatened to commit suicide if she/he had to go back to Money one more time and therefore his parents finally told her that she was a he. Twin brother was schizophrenic and committed suicide. This prompted David to also commit suicide in addition to losing his job and his wife leaving him.*"
+    miniDescription = "raised as a girl"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "134"
+    title = "enriched/impoverished environments"
+    description = "studies such as Rosenweig and Bennett (rat study) show that an enriched environment lead to thicker cerebral cortex volume and heavier frontal lobe. Another rat study by Diamond: same type of results when rats put together. Live longer in enriched environment compared to impoverished"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "156"
+    title = "Richard Lazarus"
+    description = "coping strategies. Theory of Transactional appraisal; two steps; first: stressor is judged as positive, negative, or irrelevant. Second step: after appraisal, a coping strategy is chosen to best handle the situation."
+    miniDescription = "Coping strategies"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "157"
+    title = "Robert Sapolsky"
+    description = "poorer health of baboons lower in hierarchy, higher level of stress hormones.  why don’t zebra get ulcers? don’t suffer from chronic stress. studied long-term not short term effects of stress."
+    miniDescription = "stress in baboon hierarchy"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "158"
+    title = "Carol Shively"
+    description = "Wake Forest researcher. dopamine levels. Also found that higher stress damaged arteries. lower dopamine (neurotransmitter and hormone → neuropeptide involved in pleasure) levels found in macaques lower in hierarchy - link to depression, higher rates of obesity."
+    miniDescription = "Dopamine in macaques"
+    />
+    
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "151"
+    title = "Simon LeVay"
+    description = "british neuroscientist famous for conducting research connecting brain structure to sexual orientation. QUASI STUDY (groups already made) HIV positive deceased men.  postmortem quasi study.  he found  a difference in the average size between the third Interstitial Nucleus of the Anterior Hypothalamus (INAH3) in the brains of heterosexual men and homosexual men: INAH3 was more than twice as large in heterosexual men as in homosexual men. The INAH3 size of homosexual men was the same as that of women. LeVay wrote that 'This finding indicates that INAH is dimorphic with sexual orientation, at least in men, and suggests that sexual orientation has a biologica substrate.'*"
+    miniDescription = "HIV in gay men"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "147"
+    title = "V.S. Ramachandran"
+    description = "phantom limbs and synesthesis, which is where stimulation in one sensory modality leads to experiences in a second, unstimulated modality. also mirror neurons!"
+    miniDescription = "Phantom limbs"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "100"
+    title = "La Mettrie"
+    description = "important materialist emphasizing mind-body connection based off personal experience"
+    miniDescription = "Mind Body connection"
+    />
+    
+    
+    <BIOLOGICAL
+    categoryNumber = "0"
+    itemNumber = "119"
+    title = "Michael Marmont"
+    description = "Whitehall Study"
+    miniDescription = "Whitehall Study"
+    />
+    
+    
+    
+    
+    <BIOLOGICAL
+    categoryNumber = "1"
+    itemNumber = "155"
+    title = "Genie"
+    description = "also known as Susan Wiley. Discovered on November 25, 1970 by social workers in LA. Was at that time 13. Had been socially isolated for the majority of her life leaving her unable to talk and barely walk. Unknown if Genie was born mentally retarded or if she missed the “critical period”. Was eventually taught some sign language and could vocalize a bit, but had no syntax. While she was sleeping, her brain waves were measured and scientists found an unusually high number of sleep spindles."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "1"
+    itemNumber = "114"
+    title = "H.M."
+    description = "surgically removed hippocampus, unable to form new memories-"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "1"
+    itemNumber = "115"
+    title = "Clive Wearing"
+    description = "encephalitis. suffers from deterioration of hippocampi in both hemispheres. Both anterograde and retrograde amnesia, but can play the piano. Probably because memory is not localized to one part of the brain."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "1"
+    itemNumber = "117"
+    title = "Phineas Gage"
+    description = "had a railroad spike lodged in his brain (ouch) and was the first subject to experience non-lethal damage directly to the brain. His frontal lobe was destroyed, but his motor, speech and memory were undamaged. Because his frontal lobe was cut off from the rest of the brain, Gage’s personality became brutish and animal-like. This suggests that the prefrontal cortex is responsible for decision making."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "1"
+    itemNumber = "148"
+    title = "Tan"
+    description = "Injured Broca’s area; unable to speak in well formed sentences (only said 'Tan')"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "1"
+    itemNumber = "149"
+    title = "Gabrielle Giffords"
+    description = "US Congresswoman shot in head, lost some language and sight capabilities but has recovered, showing evidence of plasticity"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "1"
+    itemNumber = "144"
+    title = "Andrea Yates"
+    description = "Houston TX woman who drowned her five children in a bathtub. she suffered from severe postpartum depression and was a threat to herself, having already attempted suicide multiple times. despite being prescribed various anti-psychotic medications, she still continued to have severe mental health issues"
+    />
+    
+    
+    
+    
+    
+    
+    
+    
+    <BIOLOGICAL
+    categoryNumber = "2"
+    itemNumber = "101"
+    title = "Minnesota Twin Study"
+    description = "Bouchard et al 1990
+    longitudinal study since 1979
+    compares MZAs to MZTs (monozygotic twins raised together and monozygotic twins raised apart) as well as DZTs (dizygotic) and siblings raised together.
+    avg age:  41 (makes this study unique)
+    50 hours of testing and inteviews
+    results:  same person tested 2x:  87% concordance, MZTs:  86% concordance rate, MZAs:  76%, DZTs:  55%, siblings raised togehter:  47%
+    conclusion:  heritability estimate:  70%.  criticized b/c relied on media to recruit people, ethical concerns with reuniting twins, no adequate control to establish frequency with which twins saw each other prior to study"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "2"
+    itemNumber = "135"
+    title = "London Taxi Drivers"
+    description = "experience alters formation of the brain ( posterior hippocampus larger in taxi drivers, anterior hippocampus smaller)"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "2"
+    itemNumber = "138"
+    title = "Whitehall Study"
+    description = "study done by Marmot to test the effects of stress in a hierarchical workplace environment. Tested British subjects from different levels and found that the lowest in the hierarchy had the most stress, and therefore had the greatest predisposition to stress-linked diseases like high blood pressure and diabetes."
+    />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <BIOLOGICAL
+    categoryNumber = "3"
+    itemNumber = "150"
+    title = "schizophrenia"
+    description = "a severe mentaldisorder characterized by some, but not necessarily all, ofthe following features: emotional blunting, intellectualdeterioration, social isolation, disorganized speech and.  correlates w/ high levels of dopamine"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "3"
+    itemNumber = "160"
+    title = "depression"
+    description = "low norepinephrine, low serotonin"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "3"
+    itemNumber = "88"
+    title = "amnesia"
+    description = "inability to learn new info or retrieve info that has already been stored"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "3"
+    itemNumber = "89"
+    title = "anterograde amnesia"
+    description = "failure to store memories after trauma"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "3"
+    itemNumber = "90"
+    title = "retrograde amnesia"
+    description = "failure to store memories before trauma"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "3"
+    itemNumber = "91"
+    title = "Korsakoff’s syndrome"
+    description = "amnesia caused by prolonged alcohol abuse- the inability to transfer short term to long term."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "3"
+    itemNumber = "92"
+    title = "encephalitis"
+    description = "Clive Wearing, the medial hippocampus, encephalitis lethargica - high fever, sore throat, headache, double vision, delayed physical and mental response, sleep inversion, catatonia and lethargy (synthetic dopamine to treat)"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "3"
+    itemNumber = "93"
+    title = "epilepsy"
+    description = "cut corpus callosum when not responsive to treatments,"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "3"
+    itemNumber ="94"
+    title = "Alzheimer’s"
+    description = "a form of dementia that gradually gets worse over time. It affects memory, thinking, and behavior. biological explanation? low levels of acetylcholine, begins in the entorhinal cortex and proceeds to the hippocampus"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "3"
+    itemNumber = "96"
+    title = "agnosia"
+    description = "inability to recognize common objects*"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "3"
+    itemNumber = "97"
+    title = "anosognosia"
+    description = "inability to recognize the existence of one’s disability*"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "3"
+    itemNumber = "98"
+    title = "prosopagnosia"
+    description = "inability to recognize faces, fusiform gyrus*"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "3"
+    itemNumber = "99"
+    title = "traumatic encephalopathy"
+    description = "#130 (Chris Nowinski-President of the Sports Legacy Institute, dedicated to furthering sports-related brain injury research and awareness, and improving the safety of contact and collision sports, including examining long-term effects of head trauma among athletes.  played football at harvard.  became a professional wrestler.  6 separate concussions.  minor form of traumatic brain injury.  at BU studies traumatic encephilopathy.  studies of former athletes who committed suicide.  similar history of concussions.  found that brains show sign of traumatic encephilopathy → dark spots scattered through brains → look like older brains going through dementia.  lobbied nfl to get rules changed:  so you wouldn’t go right back in game after concussion.  other researchers started studying little collisions in practice.  cumulative effect is really bad.  similar to heading a soccer ball.  → damage eventually. enzyme:  tau destroys parts of brain.)"
+    />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "1"
+    title = "synapse"
+    description = "the gap between two neurons"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "2"
+    title = "myelin"
+    description = "speeds neurotransmission, break down of myelin sheath:  multiple sclerosis"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "3"
+    title = "dendrite"
+    description = "extension of neurons, receives messages, more dendrites from enriched environment"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "4"
+    title = "axon"
+    description = "sends messages in neurotransmission"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "5"
+    title = "medulla"
+    description = "maintains important life sustaining functions, like breathing"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "6"
+    title = "neurons"
+    description = "basic building blocks of the nervous system"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "12"
+    title = "pineal gland"
+    description = "produces melatonin - sleeping"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "13"
+    title = "frontal lobes"
+    description = "higher level thinking, last part of brain to develop"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "14"
+    title = "parietal lobes"
+    description = "touch"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "15"
+    title = "temporal lobes"
+    description = "organizing sensory input"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "16"
+    title = "occipital lobes"
+    description = "part of cerebral cortex, develops 1st after birth, visual processing."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "17"
+    title = "central nervous system"
+    description = "brain and spinal cord"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "18"
+    title = "peripheral nervous system"
+    description = "everything outside the brain and spinal cord: Somatic and Autonomic"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "19"
+    title = "autonomic/somatic nervous system"
+    description = "a:controlled by hypothalamus, internal and involuntary function (sympathetic and parasympathetic). s:voluntary and external functions like writing."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "20"
+    title = "sympathetic nervous system"
+    description = "activated in stress response, Cannon fight/flight, Selye GAS=ARE, epinephrine."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "21"
+    title = "parasympathetic nervous system"
+    description = "returns body to homeostasis"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "22"
+    title = "cerebellum"
+    description = "balance, posture, implicit memories"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "23"
+    title = "anterior cerebellum"
+    description = "portion of cerebellum responsible for mediating unconscious proprioception. often deteriorates in the brain of an alcoholic, non-verbal IQ increase → increase in size of anterior cerebellum."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "24"
+    title = "limbic system"
+    description = "PHHAT: pituitary gland, hypothalamus, hippocampus, amygdala, thalamus. emotion and memory"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "25"
+    title = "hypothalamus"
+    description = "part of the limbic system; regulates the 4 F’s (feast, fight, flee, sex)"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "26"
+    title = "lateral hypothalamus"
+    description = "GO hunger, blood sugar, body temperature, and food in stomach"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "27"
+    title = "ventromedial hypothalamus"
+    description = "STOP hunger"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "28"
+    title = "hippocampus"
+    description = "part of the limbic system that controls memory. Explicit memories"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "29"
+    title = "anterior hippocampus"
+    description = "memory encoding"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "30"
+    title = "posterior hippocampus"
+    description = "direction"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "31"
+    title = "medial hippocampus"
+    description = "memory retrieval, HM → removed by doctor due to epilepsy"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "32"
+    title = "amygdala"
+    description = "part of the limbic system that controls emotion.  closer to thalamus than frontal lobe is. “first crack at all sensory information.”  smell is most powerful sense.  emotions come first.  this is good for little critters."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "33"
+    title = "reticular formation"
+    description = "waking/sleeping and distinguishing relevant stimuli."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "34"
+    title = "pons"
+    description = "passes info between cerebellum and cerebrum.  sends other messages to the brain, manages arousal feelings, and monitors respiration."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "35"
+    title = "corpus callosum"
+    description = "acts as the bridge between the two hemispheres. If severed, (ex: severing to treat epilepsy in extreme cases) results in two independently functioning consciouses. (split brain patients)"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "36"
+    title = "angular gyrus"
+    description = "metaphor comprehension (study by ramachandran)."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "37"
+    title = "fusiform gyrus"
+    description = "part of the temporal lobe whose biggest responsibility is face recognition. Linked to the disorder prospagnosia, or face blindness."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "38"
+    title = "myelin sheath"
+    description = "the insulating sheath around the axon in a neuron (see #2)"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "39"
+    title = "mirror neurons"
+    description = "a neuron that fires when an animal performs an action or when the animal observes someone else performing the same action. Responsible for empathy and learning. Gallese: study on monkeys where a crack was heard when a neuron is activated and heard cracks when the monkey itself reached for a peanut and when it saw a researcher reach for one. Iacoboni: used fMRI’s to observe subjects watching and imitating faces of different emotions"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "40"
+    title = "motor cortex"
+    description = "regions of the cerebral cortex responsible for planning and executing voluntary motor functions. Divided into primary motor cortex, posterior parietal cortex, premotor cortex, and the supplementary motor area. Connected to Penfield’s study in epilepsy who electrically probed the cortex."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "41"
+    title = "left motor cortex"
+    description = "controls movement of the right side of the body. Responsible for language learning. Contains Broca’s and Wernicke’s areas. teen IQ and left motor cortex → verbal IQ scores can increase about 14 points in a couple years, left motor cortex increases in size.  see article on mr. groves webpage thing."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "42"
+    title = "prefrontal cortex"
+    description = "Anterior part of the frontal lobes responsible for planning complex cognitive behaviors. Performs executive function. Destroyed in the Phinease Gage accident. Linked to many behavioral disorders."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "43"
+    title = "telomeres"
+    description = "region of repetitive DNA sequences at the end of a chromosome, which protects the end of the chromosome from deterioration and fusion with neighboring chromosomes. telomeres shorten over time due to cell division and aging"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "44"
+    title = "allelle"
+    description = "one of two or more parts of a gene or genetic locus. one chromatid. pair of alleles makes a chromosome."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "45"
+    title = "5-HTT"
+    description = "the gene for susceptibility to depression (shorter allele makes one more susceptible to depression when under stress)."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "46"
+    title = "cerebral cortex"
+    description = "a sheet of neural tissue that is outermost to the cerebrum of the brain. plays a key role in memory, perception, attention, perceptual awareness, thought, language and consciousness."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "47"
+    title = "pituitary gland"
+    description = "the master endocrine gland, attached by a stalk to the base of the brain. Its two lobes (the adenohypophysis and neurohypophysis) secrete hormones affecting skeletal growth, the development of sex glands, and the functioning of other endocrine glands"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "48"
+    title = "parathyroid"
+    description = "secreted by the parathyroid gland, its a hormone that controls levels of calcium in the body."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "4"
+    itemNumber = "152"
+    title = "HPA-axis"
+    description = "hypothalamic-pituitary-adrenal axis: link between these three structures that regulates such bodily functions as stress, immune responses, and homeostatic functions"
+    />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <BIOLOGICAL
+    categoryNumber = "5"
+    itemNumber = "7"
+    title = "materialism"
+    description = "mind-body connected (La Mettrie)"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "5"
+    itemNumber = "8"
+    title = "dualism"
+    description = "mind and body separated (Descartes, believed pineal gland was connection)"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "5"
+    itemNumber = "9"
+    title = "reductionism"
+    description = "narrowing down to the simplest explanation (ex.  localization of function)"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "5"
+    itemNumber = "10"
+    title = "bad reductionism"
+    description = "not considering other parts of brain or not considering other levels of analysis when looking at the cause of a behavior"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "5"
+    itemNumber = "11"
+    title = "localization of function"
+    description = "determining which part of brain causes specific behavior"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "5"
+    itemNumber = "145"
+    title = "etic"
+    description = "universal across cultures"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "5"
+    itemNumber = "146"
+    title = "emic"
+    description = "culture-specific. add info from chinese v u.s. perception of depression.  chinese:  focus on somatic disorder."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "5"
+    itemNumber = "50"
+    title = "neuroplasticity"
+    description = "the brains ability to rearrange the connections between its neurons as a result of learning or experience"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "5"
+    itemNumber = "51"
+    title = "pruning"
+    description = "'use it or lose it' synaptic pruning is where less frequently used neurons die through apoptosis (when they don’t do anything they become damaged then die) so less-used or less efficient connections are 'pruned'"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "5"
+    itemNumber = "95"
+    title = "polymorphism"
+    description = "presence of genetic variation among a population upon which natural selection operates"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "5"
+    itemNumber = "136"
+    title = "Late Bloomers"
+    description = "a person whose talents or capabilities are not visible to others until later than usual. The term is used metaphorically to describe a child or adolescent who develops more slowly than others in their age group, but eventually catches up and in some cases overtakes their peers, or an adult whose talent or genius in a particular field only appears later in life than is normal - in some cases only in old age. Jay Geidd.  biological explanation:  prolonged development of prefrontal cortex (pfc).  developed by age 25 according to geid.  he also got the guy off death row who murdered simmons.  death penalty unconstitutional for adolescents."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "5"
+    itemNumber = "137"
+    title = "Use it or lose it"
+    description = "see pruning. less commonly used neurons will die and be pruned from the rest of the brain"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "5"
+    itemNumber = "139"
+    title = "Diathesis-stress"
+    description = "combination of genetic predisposition and stressful events lead to onset of a disorder"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "5"
+    itemNumber = "140"
+    title = "implicit memories"
+    description = "memory that allows us to learn things, without any recollection of past experiences; occurs naturally; can often still be used in patients who have memory loss from traumatic brain injury."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "5"
+    itemNumber = "142"
+    title = "core executive functions"
+    description = "umbrella term for cognitive processes such as inhibition, working memory, cognitive reflexability. (planning, attention, problem solving, verbal reasoning, judgment, planningmental flexibility, multi-tasking, initiation and monitoring of actions. located primarily in the prefrontal regions of the frontal lobe.)"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "5"
+    itemNumber = "143"
+    title = "Chi"
+    description = "the vital force in the body, supposedly regulated by agriculture, see TCM"
+    />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "52"
+    title = "ESB"
+    description = "Electrical Stimulation of the Brain (Delgado)"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "53"
+    title = "CAT scan"
+    description = "combines many 2dimensional x-ray images. generates cross sections or 3D images of internal organs and body structures. can detect brain damage and highlight local changes in cerebral blood flow while a subject performs a certain task"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "54"
+    title = "PET scan"
+    description = "creates 3d image of brain through monitoring of trace amounts of glucose"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "55"
+    title = "EEG"
+    description = "recording of electrical signals from the brain made by hooking up electrodes to the subjects scalp. electrodes send signals to galvanometers from the brain. pens write the signals on scrolling graph paper. cannot show structures or anatomy of brain."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "56"
+    title = "MRI"
+    description = "movable bed inserted into a giant circular magnet. magnetic field is used to generate signals from energy release and atom alignment  producing 3D images"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "57"
+    title = "fMRI"
+    description = "similar to MRI but studies brain function (FUNCTONAL MRI) as opposed to anatomy. shows brain function while watching something on a screen that stimulates the brain"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "49"
+    title = "hemispherectomy"
+    description = "A surgery in which half of the brain, or one hemisphere, is removed. Mostly used to treat seizure disorders such as epilepsy. Only used in the most extreme cases. If done at a young age, brain is usually able to grow and compensate for the loss of the removed hemisphere. First performed on humans by Dandy and then revitalized for use with children by Carson."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "73"
+    title = "SSRI's"
+    description = "anti depressant medicine"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "74"
+    title = "GAS"
+    description = "General Adaptation Syndrome: stages of stress response proposed by Hans Selye"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "75"
+    title = "fight or flight"
+    description = "the biological response of mammals to acute stressors"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "76"
+    title = "phrenology"
+    description = "study of shape/size of cranium as an indicator of mental faculties"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "77"
+    title = "evolution"
+    description = "change in the gene pool of a population from generation to generation by processes such as mutation, natural selection, and genetic drift. slight change in the genetic make up of an organism over time."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "78"
+    title = "heredity"
+    description = "transmission of genetic traits from parent to offspring"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "79"
+    title = "heritability"
+    description = "ability of a trait to be passed onto offspring"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "80"
+    title = "concordance rates"
+    description = "A quantitative statistical expression for the concordance of agiven genetic trait, especially in pairs of twins in genetic studies."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "81"
+    title = "monozygotic"
+    description = "developed from a single fertilized egg (ex: identical twins)"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "82"
+    title = "dizygotic"
+    description = "coming/ developed from two fertilized eggs (ex: fraternal twins)"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "83"
+    title = "PNI"
+    description = "psycho neuro immunology: physical health impacts emotional health: Shelly Taylor!"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "84"
+    title = "split brain operation"
+    description = "separating the two hemispheres of the brain at the corpus callosum (Sperry)"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "85"
+    title = "lobotomy"
+    description = "severing of the connections between the pre frontal cortex. commonly used in the olden days as a cure for a multitude of psychiatric problems. ice pick up nostril. very unethical."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "86"
+    title = "WADA test"
+    description = "intracarotid sodium amobarbital procedure (ISAP) lateralization of function, put half of brain to sleep and see what you can do, by neurologist and epistemiologist Juhn Wada"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "6"
+    itemNumber = "87"
+    title = "invasive techniques"
+    description = "esb (#52), lesioning (ex:  ventromedial hypothalamus in rats), lobotomy"
+    />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <BIOLOGICAL
+    categoryNumber = "7"
+    itemNumber = "58"
+    title = "neurotransmitters"
+    description = "any of several chemical substances, (epinephrine or oracetylcholine), that transmit nerve impulses across a synapse to apostsynaptic element, as another nerve, muscle, or gland."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "7"
+    itemNumber = "63"
+    title = "dopamine"
+    description = "(voluntary movement, learning, feelings of pleasure)"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "7"
+    itemNumber = "64"
+    title = "acetycholine"
+    description = "involved in memory formation, Martinez and Kersner (muscle contraction)"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "7"
+    itemNumber = "65"
+    title = "serotonin"
+    description = "(sleep, arousal, emotion)"
+    />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <BIOLOGICAL
+    categoryNumber = "8"
+    itemNumber = "59"
+    title = "glucocorticoids"
+    description = "hormone that predominantly affects the metabolism of carbohydrates and, to a lesser extent, fats and proteins (and has other effects). Glucocorticoids are made in the outside portion (the cortex) of the adrenal gland and chemically classed as steroids. Cortisol is the major natural glucocorticoid.  uhhh stress..."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "8"
+    itemNumber = "67"
+    title = "cortisol"
+    description = "(arousal, stress hormone, memory)"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "8"
+    itemNumber = "68"
+    title = "testosterone"
+    description = "male sex hormone"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "8"
+    itemNumber = "69"
+    title = "estrogen"
+    description = "female sex hormone"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "8"
+    itemNumber = "70"
+    title = "oxytocin"
+    description = "(mother-child attachment) hormone responsible for affection"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "8"
+    itemNumber = "71"
+    title = "prolactin"
+    description = "released by pituitary gland. controls mammary glands (stimulation) and provides sexual gratification"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "8"
+    itemNumber = "72"
+    title = "melatonin"
+    description = "(regulation of sleep) secreted by the pineal gland in daily increments to control circadian rhythm and also a powerful antioxidant"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "8"
+    itemNumber = "153"
+    title = "CRF"
+    description = "Corticotropin-releasing Hormone: involved in stress reponse, stimulates production of ACTH*"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "8"
+    itemNumber = "154"
+    title = "ACTH"
+    description = "released from pituitary gland; stimulates production of cortisol and corticosteroids*"
+    />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <BIOLOGICAL
+    categoryNumber = "9"
+    itemNumber = "60"
+    title = "neuropeptides"
+    description = "both a hormone and neurotransmitter. examples: endorphrines, epinephrine, and neroepineprine."
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "9"
+    itemNumber = "61"
+    title = "epinephrine"
+    description = "both hormone and neurotransmitter"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "9"
+    itemNumber = "62"
+    title = "norepinephrine"
+    description = "both hormone and neurotransmitter (arousal, alertness, stimulation of the sympathetic nervous system)"
+    />
+    
+    <BIOLOGICAL
+    categoryNumber = "9"
+    itemNumber = "66"
+    title = "endorphins"
+    description = "both hormone and neurotransmitter.  body’s natural morphine-like pain killer."
+    />
+    
+    
+    
+    
+    
+</CATALOG>

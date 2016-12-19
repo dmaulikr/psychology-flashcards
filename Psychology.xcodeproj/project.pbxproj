@@ -23,6 +23,46 @@
 		094691D817273CD200A7757F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 094691B317273CD100A7757F /* Foundation.framework */; };
 		094691E017273CD200A7757F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 094691DE17273CD200A7757F /* InfoPlist.strings */; };
 		094691E317273CD200A7757F /* PsychologyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 094691E217273CD200A7757F /* PsychologyTests.m */; };
+		094691EF17273D9A00A7757F /* BiologicalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 094691ED17273D9A00A7757F /* BiologicalViewController.m */; };
+		094691F017273D9A00A7757F /* BiologicalViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 094691EE17273D9A00A7757F /* BiologicalViewController.xib */; };
+		0946921F172742E000A7757F /* QuizViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0946921D172742E000A7757F /* QuizViewController.m */; };
+		09469220172742E000A7757F /* QuizViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0946921D172742E000A7757F /* QuizViewController.m */; };
+		09469221172742E000A7757F /* QuizViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0946921E172742E000A7757F /* QuizViewController.xib */; };
+		09469222172742E000A7757F /* QuizViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0946921E172742E000A7757F /* QuizViewController.xib */; };
+		09469225172745B500A7757F /* Word.m in Sources */ = {isa = PBXBuildFile; fileRef = 09469224172745B500A7757F /* Word.m */; };
+		09469226172745B500A7757F /* Word.m in Sources */ = {isa = PBXBuildFile; fileRef = 09469224172745B500A7757F /* Word.m */; };
+		0946922A17274A2700A7757F /* StudyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0946922817274A2700A7757F /* StudyViewController.m */; };
+		0946922B17274A2700A7757F /* StudyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0946922817274A2700A7757F /* StudyViewController.m */; };
+		0946922C17274A2700A7757F /* StudyViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0946922917274A2700A7757F /* StudyViewController.xib */; };
+		0946922D17274A2700A7757F /* StudyViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0946922917274A2700A7757F /* StudyViewController.xib */; };
+		0946923217274C9500A7757F /* BioData.xml in Resources */ = {isa = PBXBuildFile; fileRef = 0946923117274C9500A7757F /* BioData.xml */; };
+		0946923317274C9500A7757F /* BioData.xml in Resources */ = {isa = PBXBuildFile; fileRef = 0946923117274C9500A7757F /* BioData.xml */; };
+		0946923717274F9400A7757F /* CognitiveViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0946923517274F9400A7757F /* CognitiveViewController.m */; };
+		0946923817274F9400A7757F /* CognitiveViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0946923517274F9400A7757F /* CognitiveViewController.m */; };
+		0946923917274F9400A7757F /* CognitiveViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0946923617274F9400A7757F /* CognitiveViewController.xib */; };
+		0946923A17274F9400A7757F /* CognitiveViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0946923617274F9400A7757F /* CognitiveViewController.xib */; };
+		0946923E17274FD400A7757F /* SocioCulturalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0946923C17274FD400A7757F /* SocioCulturalViewController.m */; };
+		0946923F17274FD400A7757F /* SocioCulturalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0946923C17274FD400A7757F /* SocioCulturalViewController.m */; };
+		0946924017274FD400A7757F /* SocioCulturalViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0946923D17274FD400A7757F /* SocioCulturalViewController.xib */; };
+		0946924117274FD400A7757F /* SocioCulturalViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0946923D17274FD400A7757F /* SocioCulturalViewController.xib */; };
+		094692461727508100A7757F /* CogData.xml in Resources */ = {isa = PBXBuildFile; fileRef = 094692451727508100A7757F /* CogData.xml */; };
+		094692471727508100A7757F /* CogData.xml in Resources */ = {isa = PBXBuildFile; fileRef = 094692451727508100A7757F /* CogData.xml */; };
+		094692491727508700A7757F /* SocioData.xml in Resources */ = {isa = PBXBuildFile; fileRef = 094692481727508700A7757F /* SocioData.xml */; };
+		0946924A1727508700A7757F /* SocioData.xml in Resources */ = {isa = PBXBuildFile; fileRef = 094692481727508700A7757F /* SocioData.xml */; };
+		0946924E1727625900A7757F /* ResultsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0946924C1727625900A7757F /* ResultsViewController.m */; };
+		0946924F1727625900A7757F /* ResultsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0946924C1727625900A7757F /* ResultsViewController.m */; };
+		094692501727625900A7757F /* ResultsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0946924D1727625900A7757F /* ResultsViewController.xib */; };
+		094692511727625900A7757F /* ResultsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0946924D1727625900A7757F /* ResultsViewController.xib */; };
+		0946925317288E1300A7757F /* button1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0946925217288E1000A7757F /* button1.png */; };
+		0946925417288E1300A7757F /* button1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0946925217288E1000A7757F /* button1.png */; };
+		0946925717288E5500A7757F /* button2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0946925517288E5500A7757F /* button2.png */; };
+		0946925817288E5500A7757F /* button2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0946925517288E5500A7757F /* button2.png */; };
+		0946925917288E5500A7757F /* button3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0946925617288E5500A7757F /* button3.png */; };
+		0946925A17288E5500A7757F /* button3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0946925617288E5500A7757F /* button3.png */; };
+		0946925C172892B800A7757F /* pauseButtonImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 0946925B172892B800A7757F /* pauseButtonImage.png */; };
+		0946925D172892B800A7757F /* pauseButtonImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 0946925B172892B800A7757F /* pauseButtonImage.png */; };
+		0946925F1728931900A7757F /* goButtonImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 0946925E1728931900A7757F /* goButtonImage.png */; };
+		094692601728931900A7757F /* goButtonImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 0946925E1728931900A7757F /* goButtonImage.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +98,34 @@
 		094691DF17273CD200A7757F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		094691E117273CD200A7757F /* PsychologyTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PsychologyTests.h; sourceTree = "<group>"; };
 		094691E217273CD200A7757F /* PsychologyTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PsychologyTests.m; sourceTree = "<group>"; };
+		094691EC17273D9A00A7757F /* BiologicalViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BiologicalViewController.h; sourceTree = "<group>"; };
+		094691ED17273D9A00A7757F /* BiologicalViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BiologicalViewController.m; sourceTree = "<group>"; };
+		094691EE17273D9A00A7757F /* BiologicalViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BiologicalViewController.xib; sourceTree = "<group>"; };
+		0946921C172742E000A7757F /* QuizViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QuizViewController.h; sourceTree = "<group>"; };
+		0946921D172742E000A7757F /* QuizViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuizViewController.m; sourceTree = "<group>"; };
+		0946921E172742E000A7757F /* QuizViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = QuizViewController.xib; sourceTree = "<group>"; };
+		09469223172745B500A7757F /* Word.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Word.h; sourceTree = "<group>"; };
+		09469224172745B500A7757F /* Word.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Word.m; sourceTree = "<group>"; };
+		0946922717274A2700A7757F /* StudyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StudyViewController.h; sourceTree = "<group>"; };
+		0946922817274A2700A7757F /* StudyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StudyViewController.m; sourceTree = "<group>"; };
+		0946922917274A2700A7757F /* StudyViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = StudyViewController.xib; sourceTree = "<group>"; };
+		0946923117274C9500A7757F /* BioData.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = BioData.xml; sourceTree = "<group>"; };
+		0946923417274F9400A7757F /* CognitiveViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CognitiveViewController.h; sourceTree = "<group>"; };
+		0946923517274F9400A7757F /* CognitiveViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CognitiveViewController.m; sourceTree = "<group>"; };
+		0946923617274F9400A7757F /* CognitiveViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CognitiveViewController.xib; sourceTree = "<group>"; };
+		0946923B17274FD400A7757F /* SocioCulturalViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SocioCulturalViewController.h; sourceTree = "<group>"; };
+		0946923C17274FD400A7757F /* SocioCulturalViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SocioCulturalViewController.m; sourceTree = "<group>"; };
+		0946923D17274FD400A7757F /* SocioCulturalViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SocioCulturalViewController.xib; sourceTree = "<group>"; };
+		094692451727508100A7757F /* CogData.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = CogData.xml; sourceTree = "<group>"; };
+		094692481727508700A7757F /* SocioData.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = SocioData.xml; sourceTree = "<group>"; };
+		0946924B1727625900A7757F /* ResultsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResultsViewController.h; sourceTree = "<group>"; };
+		0946924C1727625900A7757F /* ResultsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResultsViewController.m; sourceTree = "<group>"; };
+		0946924D1727625900A7757F /* ResultsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ResultsViewController.xib; sourceTree = "<group>"; };
+		0946925217288E1000A7757F /* button1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button1.png; sourceTree = "<group>"; };
+		0946925517288E5500A7757F /* button2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button2.png; sourceTree = "<group>"; };
+		0946925617288E5500A7757F /* button3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button3.png; sourceTree = "<group>"; };
+		0946925B172892B800A7757F /* pauseButtonImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pauseButtonImage.png; sourceTree = "<group>"; };
+		0946925E1728931900A7757F /* goButtonImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = goButtonImage.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +155,9 @@
 		094691A517273CD100A7757F = {
 			isa = PBXGroup;
 			children = (
+				0946923117274C9500A7757F /* BioData.xml */,
+				094692451727508100A7757F /* CogData.xml */,
+				094692481727508700A7757F /* SocioData.xml */,
 				094691B717273CD100A7757F /* Psychology */,
 				094691DB17273CD200A7757F /* PsychologyTests */,
 				094691B017273CD100A7757F /* Frameworks */,
@@ -122,6 +193,31 @@
 				094691C917273CD100A7757F /* PsychologyViewController.h */,
 				094691CA17273CD100A7757F /* PsychologyViewController.m */,
 				094691CC17273CD100A7757F /* PsychologyViewController.xib */,
+				0946925217288E1000A7757F /* button1.png */,
+				0946925517288E5500A7757F /* button2.png */,
+				0946925617288E5500A7757F /* button3.png */,
+				094691EC17273D9A00A7757F /* BiologicalViewController.h */,
+				094691ED17273D9A00A7757F /* BiologicalViewController.m */,
+				094691EE17273D9A00A7757F /* BiologicalViewController.xib */,
+				0946923417274F9400A7757F /* CognitiveViewController.h */,
+				0946923517274F9400A7757F /* CognitiveViewController.m */,
+				0946923617274F9400A7757F /* CognitiveViewController.xib */,
+				0946923B17274FD400A7757F /* SocioCulturalViewController.h */,
+				0946923C17274FD400A7757F /* SocioCulturalViewController.m */,
+				0946923D17274FD400A7757F /* SocioCulturalViewController.xib */,
+				0946921C172742E000A7757F /* QuizViewController.h */,
+				0946921D172742E000A7757F /* QuizViewController.m */,
+				0946921E172742E000A7757F /* QuizViewController.xib */,
+				0946925B172892B800A7757F /* pauseButtonImage.png */,
+				0946925E1728931900A7757F /* goButtonImage.png */,
+				0946924B1727625900A7757F /* ResultsViewController.h */,
+				0946924C1727625900A7757F /* ResultsViewController.m */,
+				0946924D1727625900A7757F /* ResultsViewController.xib */,
+				0946922717274A2700A7757F /* StudyViewController.h */,
+				0946922817274A2700A7757F /* StudyViewController.m */,
+				0946922917274A2700A7757F /* StudyViewController.xib */,
+				09469223172745B500A7757F /* Word.h */,
+				09469224172745B500A7757F /* Word.m */,
 				094691B817273CD100A7757F /* Supporting Files */,
 			);
 			path = Psychology;
@@ -237,6 +333,20 @@
 				094691C617273CD100A7757F /* Default@2x.png in Resources */,
 				094691C817273CD100A7757F /* Default-568h@2x.png in Resources */,
 				094691CE17273CD100A7757F /* PsychologyViewController.xib in Resources */,
+				094691F017273D9A00A7757F /* BiologicalViewController.xib in Resources */,
+				09469221172742E000A7757F /* QuizViewController.xib in Resources */,
+				0946922C17274A2700A7757F /* StudyViewController.xib in Resources */,
+				0946923217274C9500A7757F /* BioData.xml in Resources */,
+				0946923917274F9400A7757F /* CognitiveViewController.xib in Resources */,
+				0946924017274FD400A7757F /* SocioCulturalViewController.xib in Resources */,
+				094692461727508100A7757F /* CogData.xml in Resources */,
+				094692491727508700A7757F /* SocioData.xml in Resources */,
+				094692501727625900A7757F /* ResultsViewController.xib in Resources */,
+				0946925317288E1300A7757F /* button1.png in Resources */,
+				0946925717288E5500A7757F /* button2.png in Resources */,
+				0946925917288E5500A7757F /* button3.png in Resources */,
+				0946925C172892B800A7757F /* pauseButtonImage.png in Resources */,
+				0946925F1728931900A7757F /* goButtonImage.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -245,6 +355,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				094691E017273CD200A7757F /* InfoPlist.strings in Resources */,
+				09469222172742E000A7757F /* QuizViewController.xib in Resources */,
+				0946922D17274A2700A7757F /* StudyViewController.xib in Resources */,
+				0946923317274C9500A7757F /* BioData.xml in Resources */,
+				0946923A17274F9400A7757F /* CognitiveViewController.xib in Resources */,
+				0946924117274FD400A7757F /* SocioCulturalViewController.xib in Resources */,
+				094692471727508100A7757F /* CogData.xml in Resources */,
+				0946924A1727508700A7757F /* SocioData.xml in Resources */,
+				094692511727625900A7757F /* ResultsViewController.xib in Resources */,
+				0946925417288E1300A7757F /* button1.png in Resources */,
+				0946925817288E5500A7757F /* button2.png in Resources */,
+				0946925A17288E5500A7757F /* button3.png in Resources */,
+				0946925D172892B800A7757F /* pauseButtonImage.png in Resources */,
+				094692601728931900A7757F /* goButtonImage.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,6 +397,13 @@
 				094691BE17273CD100A7757F /* main.m in Sources */,
 				094691C217273CD100A7757F /* PsychologyAppDelegate.m in Sources */,
 				094691CB17273CD100A7757F /* PsychologyViewController.m in Sources */,
+				094691EF17273D9A00A7757F /* BiologicalViewController.m in Sources */,
+				0946921F172742E000A7757F /* QuizViewController.m in Sources */,
+				09469225172745B500A7757F /* Word.m in Sources */,
+				0946922A17274A2700A7757F /* StudyViewController.m in Sources */,
+				0946923717274F9400A7757F /* CognitiveViewController.m in Sources */,
+				0946923E17274FD400A7757F /* SocioCulturalViewController.m in Sources */,
+				0946924E1727625900A7757F /* ResultsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,6 +412,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				094691E317273CD200A7757F /* PsychologyTests.m in Sources */,
+				09469220172742E000A7757F /* QuizViewController.m in Sources */,
+				09469226172745B500A7757F /* Word.m in Sources */,
+				0946922B17274A2700A7757F /* StudyViewController.m in Sources */,
+				0946923817274F9400A7757F /* CognitiveViewController.m in Sources */,
+				0946923F17274FD400A7757F /* SocioCulturalViewController.m in Sources */,
+				0946924F1727625900A7757F /* ResultsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
